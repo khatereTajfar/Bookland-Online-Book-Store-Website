@@ -1,4 +1,4 @@
-Online book store website developed by PHP,HTML,Javascript,CSS and Bootstrap.
+Online book store website developed by PHP, HTML, Javascript, CSS and Bootstrap.
 
 ## Features
 - Homepage
